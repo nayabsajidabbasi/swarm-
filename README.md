@@ -1,4 +1,4 @@
-readme_content = """# Swarm-Based Path Planning with Obstacles (PSO)
+# Swarm-Based Path Planning with Obstacles (PSO)
 
 **Student Name:** Nayab Sajid
 **Roll Number:** 01-136232-092
@@ -9,11 +9,3 @@ This project implements Particle Swarm Optimization (PSO) on a 2D grid to naviga
 
 ## Algorithm Flow Diagram
 ![PSO Flow Diagram](flowchart.jpeg)
-"""
-
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md generated successfully!")
-
-
